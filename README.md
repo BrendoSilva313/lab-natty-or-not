@@ -12,8 +12,5 @@ Foram utilizadas as seguinte IAs generativas:
 ## 🧐 Processo de Criação
 Primeiramente eu elaborei uma Prompt para que a IA generativa entendesse e fizesse a entrega do que foi pedido, depois eu pedi para elaborar as ilustrações com base no que ela mesmo elaborou de conteúdo 
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Honestamente eu fiquei bastante surpreso com a facilidade que a IA generativa criou esses conteúdos, tanto a historia do E-book quanto as ilustrações. Foram dadas poucas instruções para ela e mesmo assim ela conseguiu entregar algo que uma pessoa realmente poderia ter escrito
